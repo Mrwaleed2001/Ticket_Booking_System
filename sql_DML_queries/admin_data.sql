@@ -1,0 +1,1 @@
+SELECT * FROM cinema_management.admin_data;
